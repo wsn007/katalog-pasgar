@@ -1,0 +1,6 @@
+{
+  "name": "PASGAR ARIF S – Professional E-Commerce Catalog",
+  "description": "Katalog belanja online profesional PASGAR ARIF S. Belanja mudah, cepat, dan terpercaya dengan checkout WhatsApp langsung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
